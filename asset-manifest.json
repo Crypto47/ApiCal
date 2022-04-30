@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crypto47/ApiCal.git/static/css/main.073c9b0a.css",
+    "main.js": "/Crypto47/ApiCal.git/static/js/main.b9621043.js",
+    "static/js/787.874e0c3f.chunk.js": "/Crypto47/ApiCal.git/static/js/787.874e0c3f.chunk.js",
+    "index.html": "/Crypto47/ApiCal.git/index.html",
+    "main.073c9b0a.css.map": "/Crypto47/ApiCal.git/static/css/main.073c9b0a.css.map",
+    "main.b9621043.js.map": "/Crypto47/ApiCal.git/static/js/main.b9621043.js.map",
+    "787.874e0c3f.chunk.js.map": "/Crypto47/ApiCal.git/static/js/787.874e0c3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b9621043.js"
+  ]
+}
